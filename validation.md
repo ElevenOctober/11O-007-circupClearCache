@@ -10,4 +10,5 @@
 ## Upstream CI
 
 - The `Build CI / test` job passed on [PR #292](https://github.com/adafruit/circup/pull/292).
+- Run: [43471868192](https://github.com/adafruit/circup/actions/runs/43471868192).
 - PR #292 remains open and is awaiting maintainer review and merge.
